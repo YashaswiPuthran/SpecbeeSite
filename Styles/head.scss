@@ -1,0 +1,9 @@
+@use "./abstract/colors" as *;
+
+.header__logo {
+    margin-left: 0px;
+
+    &__link {
+        margin-left: 0px;
+    }
+}
